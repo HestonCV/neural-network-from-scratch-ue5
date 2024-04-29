@@ -10,6 +10,15 @@
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/NN_NeuralNetwork.uasset",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/M_Agent.uasset",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/NN_Agent.uasset",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Level.umap",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Level_BuiltData.uasset",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/M_Target.uasset",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/NN_Target.uasset",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/NN_GameMode.uasset",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Materials/M_Agent.uasset",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Materials/M_Target.uasset",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Actors/NN_Agent.uasset",
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Actors/NN_Target.uasset",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Level_HLOD0_Instancing.uasset",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalActors__/Level/C/PA/FDHP57TGJNB11KZ7HI9O37.uasset",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalObjects__/Level/D/OR/ID92NLLMOZFXTPWUN21V1S.uasset",
@@ -76,11 +85,9 @@
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalActors__/Level/7/IK/OWRB5VYN97ULCP919LLFQJ.uasset",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalActors__/Level/4/A2/RWU78G438XSR7DULUEOUXK.uasset",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalActors__/Level/0/A6/CTKEDSFXEFFIDZQ0UY6AG7.uasset",
-				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Level.umap",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalActors__/Level/4/55/UTPW4668OV4SJAQM2V2R1F.uasset",
 				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalActors__/Level/0/IF/X74JH8S7JMX43LKGETHKSY.uasset",
-				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalActors__/Level/E/5X/JW6GWTY2BXM82MBWT53FPQ.uasset",
-				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/Level_BuiltData.uasset"
+				"/Users/heston/repos/neural-network-from-scratch-ue5/NeuralNetwork/Content/__ExternalActors__/Level/E/5X/JW6GWTY2BXM82MBWT53FPQ.uasset"
 			]
 		}
 	]
